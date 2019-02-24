@@ -1,6 +1,7 @@
 body{
 	background-image: url(webBackground.jpeg);
 	background-repeat: no-repeat;
+	background-size: auto;
 }
 h1{
 	font-family: 'Pacifico', cursive;
